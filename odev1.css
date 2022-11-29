@@ -1,0 +1,33 @@
+.kirmizi{
+    color: rgb(241, 6, 25);
+}
+
+.mor{
+    color:purple;
+}
+
+.sari{
+    color: rgb(211, 211, 79);
+}
+h3 {
+    color: #b08e20;
+}
+
+article {
+    text-align: left;
+}
+
+body {
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+ol {
+    display: inline-block;
+    text-align: center;
+}
